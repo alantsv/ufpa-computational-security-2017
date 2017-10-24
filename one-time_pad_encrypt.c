@@ -3,6 +3,9 @@
 #include <time.h>
 #include <ctype.h>
 
+// This code just work with capital case massage.
+// However you can do a pull request with a uppercase function.
+
 // Convert decimal to character from ASCII table
 char chr(int dec){
   char character = dec;
